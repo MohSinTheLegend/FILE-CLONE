@@ -3,8 +3,7 @@
 ```python
 rm -rf FILE-CLONE
 pkg update
-pkg upgradeu![Screenshot_2022-04-25-06-17-31-07](https://user-images.githubusercontent.com/72184388/165005776-8244eb06-4fbe-460f-8df0-4788e03887b4.jpg)
-
+pkg upgrade
 pkg install python
 pkg install python2 
 pkg install openssl
@@ -17,3 +16,5 @@ git clone https://github.com/MohSinTheLegend/FILE-CLONE
 cd FILE-CLONE
 python MOHSIN.py
 ```
+# CHECK SPEED![Screenshot_2022-04-25-06-17-31-07](https://user-images.githubusercontent.com/72184388/165005867-db7790f7-61a7-4c36-b067-56c838475c24.jpg)
+
